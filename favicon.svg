@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="8" fill="#0a0a0a"/>
+  <rect x="4" y="4" width="56" height="56" rx="6" fill="none" stroke="#C9A84C" stroke-width="1"/>
+  <!-- Barber pole stripes abstracted as TGC monogram -->
+  <text x="32" y="44" text-anchor="middle" dominant-baseline="auto"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="26" font-weight="bold" fill="#C9A84C" letter-spacing="-1">TGC</text>
+  <!-- Thin rule under text -->
+  <line x1="14" y1="47" x2="50" y2="47" stroke="#C9A84C" stroke-width="0.8" opacity="0.6"/>
+</svg>

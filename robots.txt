@@ -1,0 +1,7 @@
+# robots.txt — The Gentlemen's Club (Demo Site)
+# Replace the Sitemap URL with your actual production domain before deploying.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://your-domain.com/sitemap.xml
